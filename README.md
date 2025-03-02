@@ -70,28 +70,3 @@ Output:
 2.) ![Image](https://github.com/user-attachments/assets/c31f0031-0d9a-4ffa-a972-b473b3bf4e67)
 
 3.) ![Image](https://github.com/user-attachments/assets/2d355c27-4945-4070-853c-b4908beda08d)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output: 
-1.) 
-
-file_hashes.json: Stores the hash values.
-
-
-
