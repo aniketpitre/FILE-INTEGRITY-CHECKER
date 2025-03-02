@@ -1,4 +1,18 @@
-File Integrity Checker-
+# FILE INTEGRITY CHECKER 
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: ANIKET AMOD PITRE
+
+*INTERN ID*: CT08QWA
+
+*DOMAIN*: CYBER SECURITY & ETHICAL HACKING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+Description:-
 
 This is a Python script that generates and checks the integrity of files in a specified directory using SHA-256 hashes.
 
@@ -45,6 +59,12 @@ Generate new hashes or check files? (generate/check): check
 Files
 
 app.py: Main script for hash generation and verification.
+
+
+
+
+Output: 
+1.) 
 
 file_hashes.json: Stores the hash values.
 
